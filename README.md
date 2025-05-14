@@ -4,15 +4,7 @@ A simple **Employee Management System** web application built using **Java Servl
 
 ---
 
-## 🚀 Features
 
-- ➕ Add New Employee
-- 📋 View All Employees
-- ✏️ Edit Employee Details
-- ❌ Delete Employee
-- 🔍 Search Employee by ID
-
----
 
 ## 🛠 Tech Stack
 
@@ -21,6 +13,16 @@ A simple **Employee Management System** web application built using **Java Servl
 - MySQL
 - HTML, CSS
 - Apache Tomcat
+
+
+---
+## 🚀 Features
+
+- ➕ Add New Employee
+- 📋 View All Employees
+- ✏️ Edit Employee Details
+- ❌ Delete Employee
+- 🔍 Search Employee by ID
 
 ---
 
