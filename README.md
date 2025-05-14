@@ -11,7 +11,7 @@ A simple **Employee Management System** web application built using **Java Servl
 - Java (Servlets)
 - JDBC
 - MySQL
-- HTML, CSS
+- HTML, CSS and Javascript
 - Apache Tomcat
 
 
