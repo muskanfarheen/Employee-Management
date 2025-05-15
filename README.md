@@ -1,6 +1,6 @@
 # 👨‍💼 Employee Management System
 
-A simple **Employee Management System** web application built using **Java Servlets**, **JDBC**, and **MySQL**. This project allows users to **Create**, **Read**, **Update**, and **Delete (CRUD)** employee records.
+A simple **Employee Management System** web application built using **Java Servlets**, **JDBC**, **JSP** ,**MySQL** , **HTML**,**CSS** and **Java Script**. This project allows users to **Create**, **Read**, **Update**, and **Delete (CRUD)** employee records.
 
 ---
 
@@ -22,7 +22,7 @@ A simple **Employee Management System** web application built using **Java Servl
 - 📋 View All Employees
 - ✏️ Edit Employee Details
 - ❌ Delete Employee
-- 🔍 Search Employee by ID
+- 🔍 Search Employee by Name
 
 ---
 
